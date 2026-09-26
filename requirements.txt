@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+scipy
+joblib
+xgboost
+lightgbm
+matplotlib
+seaborn
+kaleido
+python-dateutil
+threadpoolctl
+category-encoders
+imbalanced-learn
